@@ -1,20 +1,11 @@
 <template>
-   <layout>
-       <h1>Prueba</h1>
-   </layout>
+    <div class="row">
+
+    </div>
 </template>
 
 <script>
-    import Layout from '../Layouts/Admin/main';
-    export default {
-        components: { Layout },
-        data() {
-            return {
-                title: "Dashboard",
-                showModal: false,
-            };
-        },
-    }
+    export default { }
 </script>
 
 <style scoped>

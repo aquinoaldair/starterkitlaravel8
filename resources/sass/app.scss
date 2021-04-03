@@ -43,8 +43,9 @@ File: Main Css File
 @import "custom/components/print";
 
 // Plugins
+/*
 @import "custom/plugins/custom-scrollbar";
-@import "custom/plugins/calendar";
+@import "custom/plugins/calendar"; //fullcalendar
 @import "custom/plugins/dragula";
 @import "custom/plugins/session-timeout";
 @import "custom/plugins/range-slider";
@@ -60,7 +61,7 @@ File: Main Css File
 @import "custom/plugins/datepicker";
 @import "custom/plugins/bootstrap-touchspin";
 @import "custom/plugins/form-editors";
-@import "custom/plugins/form-upload";
+@import "custom/plugins/form-upload"; //dropzone
 @import "custom/plugins/form-wizard";
 @import "custom/plugins/datatable";
 @import "custom/plugins/responsive-table";
@@ -74,7 +75,7 @@ File: Main Css File
 @import "custom/plugins/leaflet-maps";
 @import "custom/plugins/carousel";
 @import "custom/plugins/chartist";
-
+*/
 // Pages
 @import "custom/pages/authentication";
 @import "custom/pages/ecommerce";
